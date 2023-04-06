@@ -1,0 +1,17 @@
+/* th  {
+    border: 1px solid;
+}
+tr  {
+    border: 1px solid;
+}
+td  {
+    border: 1px solid;
+} */
+
+.room_sharing{
+    overflow-x: scroll !important;
+}
+
+.room_sharing_tr{
+    border: 1px solid;
+}

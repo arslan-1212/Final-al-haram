@@ -1,0 +1,38 @@
+.upper_header_bg{
+    
+background-color:#02A3C1;
+padding: 20px 0px;
+}
+
+.headiiiier{
+    width: 27px;
+    height: 27px;
+    margin-right: 5px !important;
+}
+
+/* .fb_icon{
+    color: blue !important;
+} */
+.social_icons_header{
+    color: white !important;
+    /* margin-right: 10px; */
+}
+.al_haram_header_btn{
+    background-color: white !important;
+    text-transform: capitalize;
+    color: #02A3C1 !important   ;
+}
+
+
+@media only screen and (max-width:600px){
+    .resP_DIr{
+        flex-direction: column;
+    }
+    .REspon_pro{
+        margin-top: 10px;
+    }
+
+    .logo_main_header{
+        width: 60%;
+    }
+}

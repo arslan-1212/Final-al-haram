@@ -1,0 +1,83 @@
+
+.vfpln{
+    /* width: 2%; */
+}
+
+.flight_wi{
+    width: 85%;
+}
+
+.hotel_wi{
+    width: 55%;
+}
+.h_d{
+    margin-top: 12px;
+}
+.for_mtone{
+    margin-top: 12px;
+}
+
+.man_wi{
+    width: 25%;
+}
+.adm{
+    margin-top: 12px;
+}
+
+.dollar_wi{
+    width: 25%;
+}
+.h_dollar{
+    margin-top: 12px;
+}
+
+.upper_icon{
+    background-color: #02A3C1;
+}
+
+
+.clr_hdr{
+    background-color: #02A3C1;
+}
+
+.vhotel_spn{
+    background-color: #05839A;
+}
+
+
+.lug{
+    width: 7%;
+    height: 25px;
+}
+
+.smor{
+    background-color: #02A3C1 !important;
+    width: 35%;
+}
+
+
+@media screen and (max-width:500px) {
+    .vf_uppercrl{
+        display: none;
+    }
+
+    .mda{
+        display: none;
+    }
+
+    .vfpln{
+        width: 7%;
+    }
+
+    .smor{
+        background-color: #02A3C1 !important;
+        width: 55%;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .lug{
+        text-align: center !important;
+    }
+}

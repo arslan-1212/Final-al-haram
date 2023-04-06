@@ -1,0 +1,17 @@
+.sdasas{
+    padding: 1px 2px !important;
+    width: 100% !important;
+    background-color: #FFFFFF;
+    border: 1px solid grey;
+    outline: none;
+}
+
+
+/* .sm_size{
+    width: 100% !important;
+} */
+
+
+.sdasas::-webkit-input-placeholder{
+    color: red !important;
+}

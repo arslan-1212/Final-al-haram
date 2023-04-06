@@ -1,0 +1,71 @@
+.al{
+    background-color: white;
+    border-radius: 50%;
+    font-size: 23px;
+    padding: 12px;
+    color: #02A3C1;
+    font-weight: 700;
+    width: max-content;
+}
+.heading{
+    background-color:  #02A3C1;
+    padding: 10px;
+    margin-bottom: 10px !important;
+   
+}
+.harmiry{
+    color: white;
+    font-size: 23px;
+    font-weight: 700;
+    width: max-content;
+}
+.icoland{
+    font-size: 62px;
+    width: 100%;
+    background-color:  #02A3C1;
+    color: white;
+    height: 6pc;
+}
+.icotext{
+    text-align: center;
+    color: rgb(86, 86, 86);
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.ucode{
+    background-color:  #02A3C1;
+}
+.btooo{
+    width: max-content;
+    background-color: white;
+    font-weight: 700;
+    margin: auto;
+}
+.icoblod{
+    position: relative;
+    top: -16%;
+}
+.whattw{
+    color: rgb(54, 208, 54);
+    font-size: 28px;
+}
+.text-bolda{
+    font-weight: 600;
+}
+@media only screen and (max-width:400px) {
+   
+      .icoland{
+        
+        width: 100%;
+        
+    }
+}
+@media only screen and (min-width:400px)  and  (max-width:700px) {
+   
+      .icoland{
+        
+        width: 100%;
+        
+    }
+}
